@@ -94,4 +94,14 @@ Once running, the application will open automatically in your browser (typically
    * Browse a summary table of the **Top 20 Ranked Candidates**.
 5. **Download Report:** Click **Download Top 100 CSV** to export the ranked list of the best 100 candidates.
 
+
+
+### SCREENSHOTS
 <img width="1917" height="748" alt="Screenshot 2026-06-26 151455" src="https://github.com/user-attachments/assets/8da3cc64-a5fe-409b-b827-934f062575ec" />
+
+<img width="1917" height="737" alt="Screenshot 2026-06-26 151513" src="https://github.com/user-attachments/assets/eed867d9-4d6e-4993-a4af-1baa46d5186b" />
+
+<img width="1917" height="701" alt="Screenshot 2026-06-26 151525" src="https://github.com/user-attachments/assets/9914b7a4-ab33-4a6c-a1e5-90802886cce4" />
+
+
+
