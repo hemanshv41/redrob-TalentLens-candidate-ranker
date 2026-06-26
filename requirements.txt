@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+tqdm
+pyyaml
+matplotlib
+jupyter
+sentence-transformers
+torch
+streamlit
+pandas

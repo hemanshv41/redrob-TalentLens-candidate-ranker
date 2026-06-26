@@ -1,0 +1,26 @@
+team_name: RankForge AI
+
+primary_contact:
+  name: Lalit Kumar
+  email: lalit0iitian@gmail.com
+  phone: 9548915365
+
+github_repository: https://github.com/lalitkumar790/redrob-ai-candidate-ranker
+
+sandbox_link: https://redrob-ai-candidate-ranker-dwqqzzprtddpxodzh5vadx.streamlit.app/
+
+ai_tools_used:
+  - ChatGPT
+
+compute_environment:
+  os: Windows 10
+  python: 3.10
+  hardware: CPU Only
+
+methodology: >
+  Multi-factor candidate ranking system combining technical
+  skills, recruiter engagement signals, AI relevance,
+  career credibility, production experience detection,
+  evidence-based scoring, reasoning generation and
+  job-description matching to identify the strongest
+  candidates for AI Search and Retrieval roles.
