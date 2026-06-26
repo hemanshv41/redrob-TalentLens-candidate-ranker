@@ -165,7 +165,7 @@ dataset_path = (
 
 
 st.title(
-    "🤖 RankForge AI Candidate Ranker"
+    "🤖 TalentLens AI Candidate Ranker"
 )
 
 st.markdown(
@@ -418,12 +418,12 @@ st.markdown(
 
 
 # # st.set_page_config(
-# #     page_title="RankForge AI",
+# #     page_title="TalentLens AI",
 # #     layout="wide"
 # # )
 
 # # st.title(
-# #     "RankForge AI Candidate Ranker"
+# #     "TalentLens AI Candidate Ranker"
 # # )
 
 # # col1, col2, col3 = st.columns(3)
@@ -560,14 +560,14 @@ st.markdown(
 
 
 # st.set_page_config(
-#     page_title="RankForge AI",
+#     page_title="TalentLens AI",
 #     page_icon="🤖",
 #     layout="wide"
 # )
 
 
 # st.title(
-#     "🤖 RankForge AI Candidate Ranker"
+#     "🤖 TalentLens AI Candidate Ranker"
 # )
 
 # st.markdown(
