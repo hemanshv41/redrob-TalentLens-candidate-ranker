@@ -1,4 +1,4 @@
-# 🤖 TalentLens AI Candidate Ranker
+#  TalentLens AI Candidate Ranker
 
 TalentLens AI is an advanced, multi-factor candidate ranking system designed to automatically score, rank, and evaluate candidate profiles for technical roles, with a focus on Search, Retrieval, Recommendation, and Machine Learning/AI engineering positions.
 
@@ -6,7 +6,7 @@ The application features a sleek, interactive Streamlit web interface with a mod
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Multi-Factor Scoring Engine:** Ranks candidates based on 8 distinct technical and career dimensions.
 * **Semantic Job Description Matching:** Automatically parses JD requirements to match candidate skills, history, and job titles.
@@ -16,7 +16,7 @@ The application features a sleek, interactive Streamlit web interface with a mod
 
 ---
 
-## 📊 Scoring Signals Breakdown
+##  Scoring Signals Breakdown
 
 The system computes a `final_score` (rounded to 2 decimal places) using a weighted combination of 8 signals:
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🏃 Running the Application
+##  Running the Application
 
 To launch the interactive dashboard, run:
 ```bash
@@ -93,3 +93,5 @@ Once running, the application will open automatically in your browser (typically
    * View the **Best Match** candidate alongside their match metric, score, and generated reasoning explanation.
    * Browse a summary table of the **Top 20 Ranked Candidates**.
 5. **Download Report:** Click **Download Top 100 CSV** to export the ranked list of the best 100 candidates.
+
+<img width="1917" height="748" alt="Screenshot 2026-06-26 151455" src="https://github.com/user-attachments/assets/8da3cc64-a5fe-409b-b827-934f062575ec" />
