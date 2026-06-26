@@ -6,6 +6,9 @@ The application features a sleek, interactive Streamlit web interface with a mod
 
 ---
 
+
+## 🚀 Try the Live Demo:  https://redrob-talentlens-candidate-ranker-c6pefu3v9nqttzxkfm4dis.streamlit.app/
+
 ##  Key Features
 
 * **Multi-Factor Scoring Engine:** Ranks candidates based on 8 distinct technical and career dimensions.
@@ -103,5 +106,5 @@ Once running, the application will open automatically in your browser (typically
 
 <img width="1917" height="701" alt="Screenshot 2026-06-26 151525" src="https://github.com/user-attachments/assets/9914b7a4-ab33-4a6c-a1e5-90802886cce4" />
 
-
+       🔗https://redrob-talentlens-candidate-ranker-c6pefu3v9nqttzxkfm4dis.streamlit.app/
 
